@@ -1,0 +1,12 @@
+{
+  "allowed_tiers": ["27164484"],
+  "_tier_reference": {
+    "27097555": "Free",
+    "27615559": "Dare Starters",
+    "27098000": "Dare Explorer",
+    "27164394": "Dare Challenger",
+    "27164419": "Dare Master",
+    "27164453": "Dare Legend",
+    "27164484": "Dare Immortal"
+  }
+}
