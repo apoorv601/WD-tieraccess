@@ -1,5 +1,5 @@
 {
-  "allowed_tiers": ["27164484"],
+  "allowed_tiers": ["27164484", "27164453"],
   "_tier_reference": {
     "27097555": "Free",
     "27615559": "Dare Starters",
@@ -8,6 +8,8 @@
     "27164419": "Dare Master",
     "27164453": "Dare Legend",
     "27164484": "Dare Immortal"
+  },
+  "version_access": {
   },
   "updates": {
     "sandbox": {
